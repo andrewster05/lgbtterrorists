@@ -1,0 +1,124 @@
+{
+    "churches": [
+        {
+            "name": "Stedfast",
+            "address": [
+                "700 W Bedford Euless Rd,",
+                "Hurst, TX 76053."
+            ],
+            "phone": [
+                682,
+                253,
+                4066
+            ],
+            "facebook": "StedfastBaptist",
+            "website": "https://stedfastbaptistkjv.org/",
+            "pictureURL": "/churchesimg/stedfast.png"
+        },
+        {
+            "name": "Pure Words",
+            "address": [
+                "Pure Words Baptist Church",
+                "14567 Main St",
+                "Houston, TX 77085"
+            ],
+            "phone": [
+                832,
+                767,
+                4436
+            ],
+            "facebook": "PureWordsBaptist",
+            "website": "https://purewordsbaptist.com/contact",
+            "pictureURL": "/churchesimg/purewords.jpg"
+        },
+        {
+            "name": "First Works",
+            "address": [
+                "2600 Tyler Ave. El Monte CA"
+            ],
+            "phone": [
+                626,
+                361,
+                7254
+            ],
+            "facebook": "FWBCLA",
+            "website": "https://www.fwbcla.org/",
+            "pictureURL": "/churchesimg/fwbcla.webp"
+        },
+        {
+            "name": "Faithful Word",
+            "address": [
+                "2741 W Southern Ave Suite #14,",
+                "Tempe, AZ 85282"
+            ],
+            "phone": [
+                602,
+                456,
+                1049
+            ],
+            "facebook": "Faithful-Word-Baptist-Church-183465927963",
+            "website": "http://www.faithfulwordbaptist.org/",
+            "pictureURL": "/churchesimg/fwbc.jpg"
+        },
+        {
+            "name": "Stronghold",
+            "address": [
+                "5865 Jimmy Carter Blvd Ste 90,",
+                "Norcross, GA 30071"
+            ],
+            "phone": [
+                "470",
+                "440",
+                "0373"
+            ],
+            "facebook": "strongholdbaptist",
+            "website": "https://strongholdbaptist.church/",
+            "pictureURL": "/churchesimg/stronghold.jpeg"
+        },
+        {
+            "name": "Sure Foundation",
+            "address": [
+                "609 Main Street, Suite 120",
+                "Vancouver, WA 98660"
+            ],
+            "phone": [
+                360,
+                718,
+                3834
+            ],
+            "facebook": "Sure-Foundation-Baptist-Church-1890685047923960",
+            "website": "http://surefoundationbaptist.church/",
+            "pictureURL": "/churchesimg/surefoundation.png"
+        },
+        {
+            "name": "Verity",
+            "address": [
+                "609 Main St Suite #120,",
+                "Vancouver, WA 98660"
+            ],
+            "phone": [
+                844,
+                983,
+                7489
+            ],
+            "facebook": "Verity-Baptist-Church-116877921704113",
+            "website": "https://veritybaptist.com/",
+            "pictureURL": "/churchesimg/verity.jpg"
+        },
+        {
+            "name": "Shield of Faith",
+            "address": [
+                "2312 N Cole Rd suite j,",
+                "Boise, ID 83704"
+            ],
+            "phone": [
+                208,
+                391,
+                5323
+            ],
+            "facebook": "Shield-of-Faith-Baptist-Church-Boise-324587301456794",
+            "website": "https://shieldoffaithbaptist.com/",
+            "pictureURL": "/churchesimg/shield-of-faith.jpg"
+        }
+    ]
+}
