@@ -1,0 +1,2 @@
+# This project now includes a ready-to-use `wrangler.toml` for Cloudflare Pages.
+# Update the project name there only if the Pages project uses a different name.

@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node scripts/build.js watch",
     "build": "node scripts/build.js",
-    "deploy": "aws s3 cp build s3://lgbtterrorists --recursive"
+    "deploy": "npx wrangler pages deploy build --project-name lgbtterrorists",
+    "deploy:cloudflare": "npx wrangler pages deploy build --project-name lgbtterrorists"
   },
   "devDependencies": {
     "@fontsource/montserrat": "^4.1.0",

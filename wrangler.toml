@@ -1,0 +1,3 @@
+# Cloudflare Pages configuration for the static site generated in ./build.
+name = "lgbtterrorists"
+pages_build_output_dir = "./build"
