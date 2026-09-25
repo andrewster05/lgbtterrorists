@@ -13,7 +13,7 @@ const PhotoBanner = (): JSX.Element => {
         <div className='watch-container'>
           <FontAwesomeIcon icon={faPlayCircle} style={{ fontSize: "32px" }} />
           &nbsp;&nbsp;
-          <a className='watch-text' href="/trailer">Watch Trailer</a>
+          <a className='watch-text' href="/watch">Watch Film</a>
         </div>
       </div>
     </div>
